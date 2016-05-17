@@ -1,0 +1,17 @@
+{
+  "name": "azure-doc-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^0.10.2",
+    "botkit": "^0.1.1",
+    "restify": "^4.0.4",
+    "xml2js": "^0.4.16"
+  }
+}
